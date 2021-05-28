@@ -1,3 +1,14 @@
+# 개발 환경 설정
+```shell
+python3.8 -m venv tf
+source tf/bin/activate
+python --version
+
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/apple/tensorflow_macos/master/scripts/download_and_install.sh)"
+
+source ~/tensorflow_macos_venv/bin/activate
+python --version
+```
 # Deep Learning
 ## 개요
 
