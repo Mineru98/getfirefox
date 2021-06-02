@@ -4,3 +4,7 @@ venv-tf-*/**/*
 .ipynb_checkpoints
 *.npz
 *.npy
+.DS_Store
+*.png
+*.jpeg
+*.jpg
