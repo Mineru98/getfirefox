@@ -8,3 +8,5 @@ venv-tf-*/**/*
 *.png
 *.jpeg
 *.jpg
+*.ttf
+test.py
