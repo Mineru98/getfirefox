@@ -10,3 +10,6 @@ venv-tf-*/**/*
 *.jpg
 *.ttf
 test.py
+*.zip
+*.csv
+*.txt
