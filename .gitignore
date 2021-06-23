@@ -5,7 +5,6 @@ venv-tf-*/**/*
 *.npz
 *.npy
 .DS_Store
-*.png
 *.jpeg
 *.jpg
 *.ttf
