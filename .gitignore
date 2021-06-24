@@ -11,4 +11,6 @@ venv-tf-*/**/*
 test.py
 *.zip
 *.csv
+*.tsv
 *.txt
+*.json
